@@ -10,7 +10,7 @@ def calculadora():
         print('2 - Subtração')
         print('3 - Multiplicação')
         print('4 - Divisão')
-        print('s - Sair')
+        print('S - Sair')
         operacao = input('\nSelecione uma opção ou "s" para sair: \n')
 
         if operacao == 's' or operacao == 'S':
