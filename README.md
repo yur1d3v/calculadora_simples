@@ -3,7 +3,7 @@
 Este projeto é uma calculadora simples desenvolvida como parte de um desafio de programação no TIC em Trilhas, na trilha de Pensamento Computacional para o programa Geração Caldeira.
 
 ## Linguagem Usada:
-<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" width="50">
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" width="50">
 
 ## Funcionalidades
 
